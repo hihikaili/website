@@ -28,7 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![CIMG1154.JPG](https://github.com/hihikaili/Welcome/blob/master/CIMG1154.JPG)
+![CIMG1154.JPG]('https://github.com/hihikaili/Welcome/blob/master/CIMG1154.JPG')
+
 
 ### Jekyll Themes
 
