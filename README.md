@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ![CIMG1154.JPG]('https://github.com/hihikaili/Welcome/blob/master/CIMG1154.JPG')
-<img src="CIMG1154.JPG", width="800">
+<img src="CIMG1154.JPG" width="800" />
 
 ### Jekyll Themes
 
