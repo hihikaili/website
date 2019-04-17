@@ -8,15 +8,11 @@
 
 
 ### 旅行
-
-<img src="myimage.png" width="300" />
-[![Alt text](https://github.com/hihikaili/Welcome/blob/master/video.MP4)](https://github.com/hihikaili/Welcome/blob/master/video.MP4)
-
 #### Las Vegas
-<img src="IMG_3551.PNG" width="300" />  文字
+<img src="IMG_3551.PNG" width="300" />      文字
 
 #### Houston
-<img src="IMG_3551.PNG" width="300" />      火星上的石头
+<img src="IMG_3808.PNG" width="300" />      火星上的石头
 
 ### Support or Contact
 
