@@ -14,6 +14,7 @@
 [![Alt text](https://github.com/hihikaili/Welcome/blob/master/video.MP4)](https://github.com/hihikaili/Welcome/blob/master/video.MP4)
 
 #### Las Vegas
+<img src="IMG_3551.PNG" width="300" />  文字
 
 #### Houston
 
