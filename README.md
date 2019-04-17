@@ -12,7 +12,7 @@
 <img src="IMG_3551.PNG" width="300" />      文字
 
 #### Houston
-<img src="IMG_3808.JPG" width="300" />      火星上的石头
+<img src="IMG_3808.PNG" width="300" />      火星上的石头
 
 ### Support or Contact
 
