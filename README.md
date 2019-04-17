@@ -2,40 +2,19 @@
 
 
 
-### Fun/Ridiculous Ideas/Thoughts
+### 无题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[test](https://github.com/hihikaili/Welcome/blob/master/IMG_3690.GIF) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-![CIMG1154.JPG]('https://github.com/hihikaili/Welcome/blob/master/CIMG1154.JPG')
-<img src="CIMG1154.JPG" width="800" />
+2. List#如果有这样一间餐厅......
+2. List#
+2. List#
 
 ### Travel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hihikaili/Welcome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="myimage.png" width="300" />
 
-## Las Vegas
+#### Las Vegas
 
-## Houston
+#### Houston
 
 ### Support or Contact
 
