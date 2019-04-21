@@ -6,11 +6,11 @@
 
 ### 神游
 
-####如果有这样一间餐厅......
+#### 如果有这样一间餐厅......
 
 
-### <span style="size:12;">旅行</span>
-#### <span style="size:10;">Las Vegas</span>
+### <span style="size:12;" style="color:black;">旅行</span>
+#### <span style="size:10;" style="color:blue;">Las Vegas</span>
 
 <img src="IMG_3532.JPG" width="300" />      <span style="size:7;" style="color:black;">关于结婚</span>  
 &emsp;&emsp;如果你有这样的困惑，什么样的情况或者说契机下，两个人会想要结婚，其实是在困惑，是什么样的特殊性会让自己觉得，要主动选择这个人作为自己法律上，大多数情况下也是社会关系上的配偶。尤其是在现在这个时空，人与人的接触方式多且快。要不要结婚都已经成了现在年轻人的困惑。人生经验有限的我也思考过这个问题，且依旧没有答案。或者这个问题本身并没有什么普世的答案。但至少，现在的我已经不是完全没有头绪了。  
